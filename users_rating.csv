@@ -1,0 +1,1511 @@
+,userId,rating,title
+0,user_001,3.0,Pulp Fiction (1994)
+1,user_004,1.0,Pulp Fiction (1994)
+2,user_005,5.0,Pulp Fiction (1994)
+3,user_006,2.0,Pulp Fiction (1994)
+4,user_008,4.0,Pulp Fiction (1994)
+5,user_010,1.0,Pulp Fiction (1994)
+6,user_014,3.0,Pulp Fiction (1994)
+7,user_015,4.0,Pulp Fiction (1994)
+8,user_016,3.0,Pulp Fiction (1994)
+9,user_017,5.0,Pulp Fiction (1994)
+10,user_018,4.0,Pulp Fiction (1994)
+11,user_021,3.5,Pulp Fiction (1994)
+12,user_023,3.5,Pulp Fiction (1994)
+13,user_024,4.0,Pulp Fiction (1994)
+14,user_026,4.0,Pulp Fiction (1994)
+15,user_028,4.5,Pulp Fiction (1994)
+16,user_029,3.5,Pulp Fiction (1994)
+17,user_032,5.0,Pulp Fiction (1994)
+18,user_033,5.0,Pulp Fiction (1994)
+19,user_037,5.0,Pulp Fiction (1994)
+20,user_038,3.0,Pulp Fiction (1994)
+21,user_039,5.0,Pulp Fiction (1994)
+22,user_040,5.0,Pulp Fiction (1994)
+23,user_041,5.0,Pulp Fiction (1994)
+24,user_042,5.0,Pulp Fiction (1994)
+25,user_043,3.0,Pulp Fiction (1994)
+26,user_045,5.0,Pulp Fiction (1994)
+27,user_050,4.0,Pulp Fiction (1994)
+28,user_054,3.0,Pulp Fiction (1994)
+29,user_056,4.0,Pulp Fiction (1994)
+30,user_057,3.0,Pulp Fiction (1994)
+31,user_058,5.0,Pulp Fiction (1994)
+32,user_062,4.5,Pulp Fiction (1994)
+33,user_063,5.0,Pulp Fiction (1994)
+34,user_064,4.5,Pulp Fiction (1994)
+35,user_066,5.0,Pulp Fiction (1994)
+36,user_067,4.5,Pulp Fiction (1994)
+37,user_068,2.0,Pulp Fiction (1994)
+38,user_069,5.0,Pulp Fiction (1994)
+39,user_072,4.5,Pulp Fiction (1994)
+40,user_074,5.0,Pulp Fiction (1994)
+41,user_076,4.5,Pulp Fiction (1994)
+42,user_078,4.0,Pulp Fiction (1994)
+43,user_081,3.0,Pulp Fiction (1994)
+44,user_084,4.0,Pulp Fiction (1994)
+45,user_091,4.5,Pulp Fiction (1994)
+46,user_094,4.0,Pulp Fiction (1994)
+47,user_096,5.0,Pulp Fiction (1994)
+48,user_099,5.0,Pulp Fiction (1994)
+49,user_100,3.5,Pulp Fiction (1994)
+50,user_102,5.0,Pulp Fiction (1994)
+51,user_103,5.0,Pulp Fiction (1994)
+52,user_105,5.0,Pulp Fiction (1994)
+53,user_107,3.0,Pulp Fiction (1994)
+54,user_109,5.0,Pulp Fiction (1994)
+55,user_110,4.5,Pulp Fiction (1994)
+56,user_115,5.0,Pulp Fiction (1994)
+57,user_117,4.0,Pulp Fiction (1994)
+58,user_118,4.0,Pulp Fiction (1994)
+59,user_119,4.0,Pulp Fiction (1994)
+60,user_121,4.0,Pulp Fiction (1994)
+61,user_122,5.0,Pulp Fiction (1994)
+62,user_123,4.0,Pulp Fiction (1994)
+63,user_124,4.5,Pulp Fiction (1994)
+64,user_125,4.5,Pulp Fiction (1994)
+65,user_126,1.0,Pulp Fiction (1994)
+66,user_130,4.0,Pulp Fiction (1994)
+67,user_131,4.0,Pulp Fiction (1994)
+68,user_132,4.0,Pulp Fiction (1994)
+69,user_133,3.0,Pulp Fiction (1994)
+70,user_134,4.0,Pulp Fiction (1994)
+71,user_135,4.0,Pulp Fiction (1994)
+72,user_136,1.0,Pulp Fiction (1994)
+73,user_137,3.0,Pulp Fiction (1994)
+74,user_140,4.0,Pulp Fiction (1994)
+75,user_141,4.0,Pulp Fiction (1994)
+76,user_142,5.0,Pulp Fiction (1994)
+77,user_144,4.0,Pulp Fiction (1994)
+78,user_145,4.0,Pulp Fiction (1994)
+79,user_152,4.5,Pulp Fiction (1994)
+80,user_153,3.0,Pulp Fiction (1994)
+81,user_156,5.0,Pulp Fiction (1994)
+82,user_159,0.5,Pulp Fiction (1994)
+83,user_160,5.0,Pulp Fiction (1994)
+84,user_162,3.0,Pulp Fiction (1994)
+85,user_166,4.5,Pulp Fiction (1994)
+86,user_167,3.0,Pulp Fiction (1994)
+87,user_168,4.5,Pulp Fiction (1994)
+88,user_170,2.0,Pulp Fiction (1994)
+89,user_171,5.0,Pulp Fiction (1994)
+90,user_173,1.0,Pulp Fiction (1994)
+91,user_174,3.0,Pulp Fiction (1994)
+92,user_176,3.0,Pulp Fiction (1994)
+93,user_177,5.0,Pulp Fiction (1994)
+94,user_178,4.5,Pulp Fiction (1994)
+95,user_179,4.0,Pulp Fiction (1994)
+96,user_181,2.0,Pulp Fiction (1994)
+97,user_182,5.0,Pulp Fiction (1994)
+98,user_187,4.5,Pulp Fiction (1994)
+99,user_191,5.0,Pulp Fiction (1994)
+100,user_192,3.0,Pulp Fiction (1994)
+101,user_193,4.0,Pulp Fiction (1994)
+102,user_195,5.0,Pulp Fiction (1994)
+103,user_197,5.0,Pulp Fiction (1994)
+104,user_198,5.0,Pulp Fiction (1994)
+105,user_199,4.0,Pulp Fiction (1994)
+106,user_200,5.0,Pulp Fiction (1994)
+107,user_201,5.0,Pulp Fiction (1994)
+108,user_202,4.0,Pulp Fiction (1994)
+109,user_203,5.0,Pulp Fiction (1994)
+110,user_204,4.5,Pulp Fiction (1994)
+111,user_210,0.5,Pulp Fiction (1994)
+112,user_211,4.5,Pulp Fiction (1994)
+113,user_212,3.5,Pulp Fiction (1994)
+114,user_215,3.5,Pulp Fiction (1994)
+115,user_217,2.0,Pulp Fiction (1994)
+116,user_219,4.0,Pulp Fiction (1994)
+117,user_220,5.0,Pulp Fiction (1994)
+118,user_221,5.0,Pulp Fiction (1994)
+119,user_222,4.0,Pulp Fiction (1994)
+120,user_223,3.0,Pulp Fiction (1994)
+121,user_226,4.5,Pulp Fiction (1994)
+122,user_227,4.5,Pulp Fiction (1994)
+123,user_229,5.0,Pulp Fiction (1994)
+124,user_231,4.0,Pulp Fiction (1994)
+125,user_232,5.0,Pulp Fiction (1994)
+126,user_233,4.0,Pulp Fiction (1994)
+127,user_235,4.0,Pulp Fiction (1994)
+128,user_239,5.0,Pulp Fiction (1994)
+129,user_240,2.0,Pulp Fiction (1994)
+130,user_241,4.5,Pulp Fiction (1994)
+131,user_242,5.0,Pulp Fiction (1994)
+132,user_246,4.0,Pulp Fiction (1994)
+133,user_247,4.0,Pulp Fiction (1994)
+134,user_249,4.0,Pulp Fiction (1994)
+135,user_251,5.0,Pulp Fiction (1994)
+136,user_254,5.0,Pulp Fiction (1994)
+137,user_260,4.5,Pulp Fiction (1994)
+138,user_261,5.0,Pulp Fiction (1994)
+139,user_262,3.0,Pulp Fiction (1994)
+140,user_263,3.0,Pulp Fiction (1994)
+141,user_266,5.0,Pulp Fiction (1994)
+142,user_273,4.0,Pulp Fiction (1994)
+143,user_274,5.0,Pulp Fiction (1994)
+144,user_275,5.0,Pulp Fiction (1994)
+145,user_279,5.0,Pulp Fiction (1994)
+146,user_282,4.0,Pulp Fiction (1994)
+147,user_284,4.0,Pulp Fiction (1994)
+148,user_285,4.0,Pulp Fiction (1994)
+149,user_286,5.0,Pulp Fiction (1994)
+150,user_288,5.0,Pulp Fiction (1994)
+151,user_290,5.0,Pulp Fiction (1994)
+152,user_292,3.0,Pulp Fiction (1994)
+153,user_294,4.0,Pulp Fiction (1994)
+154,user_295,5.0,Pulp Fiction (1994)
+155,user_296,4.5,Pulp Fiction (1994)
+156,user_298,4.5,Pulp Fiction (1994)
+157,user_301,4.5,Pulp Fiction (1994)
+158,user_302,5.0,Pulp Fiction (1994)
+159,user_304,5.0,Pulp Fiction (1994)
+160,user_305,5.0,Pulp Fiction (1994)
+161,user_307,4.5,Pulp Fiction (1994)
+162,user_309,3.5,Pulp Fiction (1994)
+163,user_313,5.0,Pulp Fiction (1994)
+164,user_314,1.0,Pulp Fiction (1994)
+165,user_317,5.0,Pulp Fiction (1994)
+166,user_318,4.5,Pulp Fiction (1994)
+167,user_322,5.0,Pulp Fiction (1994)
+168,user_323,4.0,Pulp Fiction (1994)
+169,user_325,5.0,Pulp Fiction (1994)
+170,user_326,4.0,Pulp Fiction (1994)
+171,user_328,5.0,Pulp Fiction (1994)
+172,user_330,4.0,Pulp Fiction (1994)
+173,user_331,5.0,Pulp Fiction (1994)
+174,user_332,4.0,Pulp Fiction (1994)
+175,user_334,4.0,Pulp Fiction (1994)
+176,user_335,5.0,Pulp Fiction (1994)
+177,user_336,5.0,Pulp Fiction (1994)
+178,user_338,4.5,Pulp Fiction (1994)
+179,user_339,2.5,Pulp Fiction (1994)
+180,user_340,4.0,Pulp Fiction (1994)
+181,user_343,4.5,Pulp Fiction (1994)
+182,user_346,3.5,Pulp Fiction (1994)
+183,user_348,5.0,Pulp Fiction (1994)
+184,user_349,4.0,Pulp Fiction (1994)
+185,user_351,4.5,Pulp Fiction (1994)
+186,user_352,5.0,Pulp Fiction (1994)
+187,user_353,5.0,Pulp Fiction (1994)
+188,user_354,4.5,Pulp Fiction (1994)
+189,user_357,4.5,Pulp Fiction (1994)
+190,user_359,4.0,Pulp Fiction (1994)
+191,user_362,5.0,Pulp Fiction (1994)
+192,user_363,5.0,Pulp Fiction (1994)
+193,user_368,5.0,Pulp Fiction (1994)
+194,user_370,5.0,Pulp Fiction (1994)
+195,user_372,4.0,Pulp Fiction (1994)
+196,user_373,5.0,Pulp Fiction (1994)
+197,user_374,5.0,Pulp Fiction (1994)
+198,user_379,2.0,Pulp Fiction (1994)
+199,user_380,5.0,Pulp Fiction (1994)
+200,user_382,5.0,Pulp Fiction (1994)
+201,user_384,5.0,Pulp Fiction (1994)
+202,user_385,4.0,Pulp Fiction (1994)
+203,user_386,5.0,Pulp Fiction (1994)
+204,user_387,5.0,Pulp Fiction (1994)
+205,user_391,5.0,Pulp Fiction (1994)
+206,user_395,3.0,Pulp Fiction (1994)
+207,user_399,5.0,Pulp Fiction (1994)
+208,user_400,5.0,Pulp Fiction (1994)
+209,user_402,5.0,Pulp Fiction (1994)
+210,user_403,5.0,Pulp Fiction (1994)
+211,user_404,3.0,Pulp Fiction (1994)
+212,user_405,4.5,Pulp Fiction (1994)
+213,user_409,5.0,Pulp Fiction (1994)
+214,user_410,2.0,Pulp Fiction (1994)
+215,user_411,5.0,Pulp Fiction (1994)
+216,user_413,5.0,Pulp Fiction (1994)
+217,user_414,5.0,Pulp Fiction (1994)
+218,user_415,5.0,Pulp Fiction (1994)
+219,user_416,4.0,Pulp Fiction (1994)
+220,user_417,5.0,Pulp Fiction (1994)
+221,user_418,4.5,Pulp Fiction (1994)
+222,user_419,5.0,Pulp Fiction (1994)
+223,user_420,4.0,Pulp Fiction (1994)
+224,user_423,4.5,Pulp Fiction (1994)
+225,user_424,4.5,Pulp Fiction (1994)
+226,user_425,4.0,Pulp Fiction (1994)
+227,user_426,3.5,Pulp Fiction (1994)
+228,user_427,4.5,Pulp Fiction (1994)
+229,user_428,4.5,Pulp Fiction (1994)
+230,user_432,2.5,Pulp Fiction (1994)
+231,user_433,5.0,Pulp Fiction (1994)
+232,user_434,5.0,Pulp Fiction (1994)
+233,user_437,5.0,Pulp Fiction (1994)
+234,user_441,5.0,Pulp Fiction (1994)
+235,user_443,4.0,Pulp Fiction (1994)
+236,user_444,5.0,Pulp Fiction (1994)
+237,user_445,4.0,Pulp Fiction (1994)
+238,user_446,4.0,Pulp Fiction (1994)
+239,user_447,5.0,Pulp Fiction (1994)
+240,user_448,5.0,Pulp Fiction (1994)
+241,user_453,5.0,Pulp Fiction (1994)
+242,user_454,4.0,Pulp Fiction (1994)
+243,user_458,4.0,Pulp Fiction (1994)
+244,user_462,2.5,Pulp Fiction (1994)
+245,user_463,4.0,Pulp Fiction (1994)
+246,user_464,4.5,Pulp Fiction (1994)
+247,user_468,3.0,Pulp Fiction (1994)
+248,user_469,5.0,Pulp Fiction (1994)
+249,user_470,3.0,Pulp Fiction (1994)
+250,user_471,4.0,Pulp Fiction (1994)
+251,user_474,4.0,Pulp Fiction (1994)
+252,user_476,3.0,Pulp Fiction (1994)
+253,user_477,4.5,Pulp Fiction (1994)
+254,user_480,4.0,Pulp Fiction (1994)
+255,user_483,5.0,Pulp Fiction (1994)
+256,user_486,5.0,Pulp Fiction (1994)
+257,user_489,4.0,Pulp Fiction (1994)
+258,user_490,4.0,Pulp Fiction (1994)
+259,user_498,4.0,Pulp Fiction (1994)
+260,user_503,5.0,Pulp Fiction (1994)
+261,user_504,4.0,Pulp Fiction (1994)
+262,user_509,3.5,Pulp Fiction (1994)
+263,user_512,5.0,Pulp Fiction (1994)
+264,user_513,4.5,Pulp Fiction (1994)
+265,user_514,4.0,Pulp Fiction (1994)
+266,user_522,5.0,Pulp Fiction (1994)
+267,user_526,4.0,Pulp Fiction (1994)
+268,user_528,4.0,Pulp Fiction (1994)
+269,user_540,5.0,Pulp Fiction (1994)
+270,user_542,3.5,Pulp Fiction (1994)
+271,user_551,3.5,Pulp Fiction (1994)
+272,user_552,4.0,Pulp Fiction (1994)
+273,user_553,5.0,Pulp Fiction (1994)
+274,user_555,4.0,Pulp Fiction (1994)
+275,user_558,3.0,Pulp Fiction (1994)
+276,user_559,3.0,Pulp Fiction (1994)
+277,user_560,4.0,Pulp Fiction (1994)
+278,user_561,4.5,Pulp Fiction (1994)
+279,user_562,5.0,Pulp Fiction (1994)
+280,user_565,5.0,Pulp Fiction (1994)
+281,user_566,4.0,Pulp Fiction (1994)
+282,user_568,4.5,Pulp Fiction (1994)
+283,user_569,5.0,Pulp Fiction (1994)
+284,user_573,5.0,Pulp Fiction (1994)
+285,user_574,3.0,Pulp Fiction (1994)
+286,user_575,5.0,Pulp Fiction (1994)
+287,user_580,5.0,Pulp Fiction (1994)
+288,user_583,4.0,Pulp Fiction (1994)
+289,user_584,3.0,Pulp Fiction (1994)
+290,user_585,5.0,Pulp Fiction (1994)
+291,user_587,5.0,Pulp Fiction (1994)
+292,user_588,5.0,Pulp Fiction (1994)
+293,user_589,5.0,Pulp Fiction (1994)
+294,user_590,4.5,Pulp Fiction (1994)
+295,user_592,4.0,Pulp Fiction (1994)
+296,user_599,5.0,Pulp Fiction (1994)
+297,user_600,4.5,Pulp Fiction (1994)
+298,user_602,5.0,Pulp Fiction (1994)
+299,user_603,5.0,Pulp Fiction (1994)
+300,user_604,5.0,Pulp Fiction (1994)
+301,user_605,2.0,Pulp Fiction (1994)
+302,user_606,5.0,Pulp Fiction (1994)
+303,user_607,3.0,Pulp Fiction (1994)
+304,user_608,5.0,Pulp Fiction (1994)
+305,user_609,4.0,Pulp Fiction (1994)
+306,user_610,5.0,Pulp Fiction (1994)
+307,user_001,4.0,Forrest Gump (1994)
+308,user_006,5.0,Forrest Gump (1994)
+309,user_007,5.0,Forrest Gump (1994)
+310,user_008,3.0,Forrest Gump (1994)
+311,user_010,3.5,Forrest Gump (1994)
+312,user_011,5.0,Forrest Gump (1994)
+313,user_014,4.0,Forrest Gump (1994)
+314,user_015,5.0,Forrest Gump (1994)
+315,user_016,3.5,Forrest Gump (1994)
+316,user_017,5.0,Forrest Gump (1994)
+317,user_018,4.5,Forrest Gump (1994)
+318,user_019,2.0,Forrest Gump (1994)
+319,user_021,4.5,Forrest Gump (1994)
+320,user_022,5.0,Forrest Gump (1994)
+321,user_024,4.5,Forrest Gump (1994)
+322,user_026,3.0,Forrest Gump (1994)
+323,user_027,5.0,Forrest Gump (1994)
+324,user_028,4.0,Forrest Gump (1994)
+325,user_029,4.5,Forrest Gump (1994)
+326,user_033,5.0,Forrest Gump (1994)
+327,user_034,4.0,Forrest Gump (1994)
+328,user_037,4.0,Forrest Gump (1994)
+329,user_038,3.0,Forrest Gump (1994)
+330,user_041,2.0,Forrest Gump (1994)
+331,user_042,5.0,Forrest Gump (1994)
+332,user_043,5.0,Forrest Gump (1994)
+333,user_045,5.0,Forrest Gump (1994)
+334,user_047,4.5,Forrest Gump (1994)
+335,user_049,4.0,Forrest Gump (1994)
+336,user_050,3.0,Forrest Gump (1994)
+337,user_052,5.0,Forrest Gump (1994)
+338,user_054,4.0,Forrest Gump (1994)
+339,user_056,5.0,Forrest Gump (1994)
+340,user_057,4.0,Forrest Gump (1994)
+341,user_058,4.0,Forrest Gump (1994)
+342,user_062,5.0,Forrest Gump (1994)
+343,user_063,3.5,Forrest Gump (1994)
+344,user_064,4.0,Forrest Gump (1994)
+345,user_066,5.0,Forrest Gump (1994)
+346,user_067,4.5,Forrest Gump (1994)
+347,user_068,3.5,Forrest Gump (1994)
+348,user_069,4.0,Forrest Gump (1994)
+349,user_070,4.0,Forrest Gump (1994)
+350,user_072,4.0,Forrest Gump (1994)
+351,user_076,1.0,Forrest Gump (1994)
+352,user_078,3.0,Forrest Gump (1994)
+353,user_081,2.0,Forrest Gump (1994)
+354,user_082,4.5,Forrest Gump (1994)
+355,user_083,4.5,Forrest Gump (1994)
+356,user_084,5.0,Forrest Gump (1994)
+357,user_086,4.0,Forrest Gump (1994)
+358,user_089,0.5,Forrest Gump (1994)
+359,user_091,3.0,Forrest Gump (1994)
+360,user_093,5.0,Forrest Gump (1994)
+361,user_094,3.0,Forrest Gump (1994)
+362,user_098,5.0,Forrest Gump (1994)
+363,user_100,4.0,Forrest Gump (1994)
+364,user_102,5.0,Forrest Gump (1994)
+365,user_103,4.0,Forrest Gump (1994)
+366,user_104,4.0,Forrest Gump (1994)
+367,user_105,3.5,Forrest Gump (1994)
+368,user_109,5.0,Forrest Gump (1994)
+369,user_111,5.0,Forrest Gump (1994)
+370,user_112,3.5,Forrest Gump (1994)
+371,user_113,4.0,Forrest Gump (1994)
+372,user_116,4.0,Forrest Gump (1994)
+373,user_117,4.0,Forrest Gump (1994)
+374,user_119,4.0,Forrest Gump (1994)
+375,user_121,4.0,Forrest Gump (1994)
+376,user_122,5.0,Forrest Gump (1994)
+377,user_124,5.0,Forrest Gump (1994)
+378,user_125,5.0,Forrest Gump (1994)
+379,user_126,4.0,Forrest Gump (1994)
+380,user_131,3.0,Forrest Gump (1994)
+381,user_132,4.0,Forrest Gump (1994)
+382,user_133,4.0,Forrest Gump (1994)
+383,user_137,3.5,Forrest Gump (1994)
+384,user_140,4.0,Forrest Gump (1994)
+385,user_141,4.0,Forrest Gump (1994)
+386,user_142,4.0,Forrest Gump (1994)
+387,user_143,5.0,Forrest Gump (1994)
+388,user_144,4.0,Forrest Gump (1994)
+389,user_148,4.0,Forrest Gump (1994)
+390,user_153,3.5,Forrest Gump (1994)
+391,user_154,5.0,Forrest Gump (1994)
+392,user_156,3.0,Forrest Gump (1994)
+393,user_159,4.0,Forrest Gump (1994)
+394,user_160,3.0,Forrest Gump (1994)
+395,user_162,5.0,Forrest Gump (1994)
+396,user_166,4.0,Forrest Gump (1994)
+397,user_167,3.0,Forrest Gump (1994)
+398,user_168,4.0,Forrest Gump (1994)
+399,user_169,4.5,Forrest Gump (1994)
+400,user_170,4.0,Forrest Gump (1994)
+401,user_173,5.0,Forrest Gump (1994)
+402,user_174,3.0,Forrest Gump (1994)
+403,user_177,5.0,Forrest Gump (1994)
+404,user_178,4.5,Forrest Gump (1994)
+405,user_179,5.0,Forrest Gump (1994)
+406,user_181,5.0,Forrest Gump (1994)
+407,user_182,5.0,Forrest Gump (1994)
+408,user_187,2.0,Forrest Gump (1994)
+409,user_188,5.0,Forrest Gump (1994)
+410,user_189,4.0,Forrest Gump (1994)
+411,user_192,5.0,Forrest Gump (1994)
+412,user_193,3.0,Forrest Gump (1994)
+413,user_197,3.0,Forrest Gump (1994)
+414,user_198,5.0,Forrest Gump (1994)
+415,user_199,2.0,Forrest Gump (1994)
+416,user_200,4.0,Forrest Gump (1994)
+417,user_201,5.0,Forrest Gump (1994)
+418,user_202,5.0,Forrest Gump (1994)
+419,user_205,4.0,Forrest Gump (1994)
+420,user_209,4.5,Forrest Gump (1994)
+421,user_211,4.5,Forrest Gump (1994)
+422,user_212,3.5,Forrest Gump (1994)
+423,user_215,3.5,Forrest Gump (1994)
+424,user_217,2.0,Forrest Gump (1994)
+425,user_220,5.0,Forrest Gump (1994)
+426,user_221,3.5,Forrest Gump (1994)
+427,user_222,4.0,Forrest Gump (1994)
+428,user_224,5.0,Forrest Gump (1994)
+429,user_226,4.0,Forrest Gump (1994)
+430,user_227,5.0,Forrest Gump (1994)
+431,user_229,4.0,Forrest Gump (1994)
+432,user_232,4.0,Forrest Gump (1994)
+433,user_233,5.0,Forrest Gump (1994)
+434,user_235,5.0,Forrest Gump (1994)
+435,user_237,2.0,Forrest Gump (1994)
+436,user_239,5.0,Forrest Gump (1994)
+437,user_240,5.0,Forrest Gump (1994)
+438,user_243,4.0,Forrest Gump (1994)
+439,user_244,5.0,Forrest Gump (1994)
+440,user_246,3.5,Forrest Gump (1994)
+441,user_247,5.0,Forrest Gump (1994)
+442,user_249,4.5,Forrest Gump (1994)
+443,user_251,5.0,Forrest Gump (1994)
+444,user_254,5.0,Forrest Gump (1994)
+445,user_261,5.0,Forrest Gump (1994)
+446,user_263,4.0,Forrest Gump (1994)
+447,user_264,3.5,Forrest Gump (1994)
+448,user_266,4.0,Forrest Gump (1994)
+449,user_268,2.0,Forrest Gump (1994)
+450,user_274,4.5,Forrest Gump (1994)
+451,user_275,3.0,Forrest Gump (1994)
+452,user_276,5.0,Forrest Gump (1994)
+453,user_279,3.0,Forrest Gump (1994)
+454,user_280,4.0,Forrest Gump (1994)
+455,user_282,4.5,Forrest Gump (1994)
+456,user_283,5.0,Forrest Gump (1994)
+457,user_284,5.0,Forrest Gump (1994)
+458,user_286,4.5,Forrest Gump (1994)
+459,user_288,5.0,Forrest Gump (1994)
+460,user_292,4.5,Forrest Gump (1994)
+461,user_294,5.0,Forrest Gump (1994)
+462,user_296,5.0,Forrest Gump (1994)
+463,user_298,3.0,Forrest Gump (1994)
+464,user_300,4.0,Forrest Gump (1994)
+465,user_301,4.0,Forrest Gump (1994)
+466,user_304,5.0,Forrest Gump (1994)
+467,user_305,4.5,Forrest Gump (1994)
+468,user_307,4.0,Forrest Gump (1994)
+469,user_308,2.5,Forrest Gump (1994)
+470,user_312,4.0,Forrest Gump (1994)
+471,user_314,4.0,Forrest Gump (1994)
+472,user_317,5.0,Forrest Gump (1994)
+473,user_318,4.5,Forrest Gump (1994)
+474,user_319,4.0,Forrest Gump (1994)
+475,user_321,5.0,Forrest Gump (1994)
+476,user_322,3.5,Forrest Gump (1994)
+477,user_323,3.5,Forrest Gump (1994)
+478,user_325,2.0,Forrest Gump (1994)
+479,user_326,5.0,Forrest Gump (1994)
+480,user_327,5.0,Forrest Gump (1994)
+481,user_328,3.0,Forrest Gump (1994)
+482,user_330,5.0,Forrest Gump (1994)
+483,user_332,4.5,Forrest Gump (1994)
+484,user_334,4.0,Forrest Gump (1994)
+485,user_335,4.0,Forrest Gump (1994)
+486,user_336,4.5,Forrest Gump (1994)
+487,user_339,4.0,Forrest Gump (1994)
+488,user_340,3.0,Forrest Gump (1994)
+489,user_341,3.5,Forrest Gump (1994)
+490,user_344,5.0,Forrest Gump (1994)
+491,user_347,4.0,Forrest Gump (1994)
+492,user_349,5.0,Forrest Gump (1994)
+493,user_351,4.5,Forrest Gump (1994)
+494,user_352,5.0,Forrest Gump (1994)
+495,user_354,4.5,Forrest Gump (1994)
+496,user_356,4.0,Forrest Gump (1994)
+497,user_357,3.5,Forrest Gump (1994)
+498,user_361,3.5,Forrest Gump (1994)
+499,user_362,4.5,Forrest Gump (1994)
+500,user_365,4.5,Forrest Gump (1994)
+501,user_367,5.0,Forrest Gump (1994)
+502,user_368,4.0,Forrest Gump (1994)
+503,user_372,3.0,Forrest Gump (1994)
+504,user_373,4.0,Forrest Gump (1994)
+505,user_374,4.0,Forrest Gump (1994)
+506,user_375,4.5,Forrest Gump (1994)
+507,user_376,3.5,Forrest Gump (1994)
+508,user_379,5.0,Forrest Gump (1994)
+509,user_380,5.0,Forrest Gump (1994)
+510,user_381,4.0,Forrest Gump (1994)
+511,user_382,4.5,Forrest Gump (1994)
+512,user_385,4.0,Forrest Gump (1994)
+513,user_387,4.0,Forrest Gump (1994)
+514,user_391,5.0,Forrest Gump (1994)
+515,user_394,4.0,Forrest Gump (1994)
+516,user_395,3.0,Forrest Gump (1994)
+517,user_399,5.0,Forrest Gump (1994)
+518,user_400,4.5,Forrest Gump (1994)
+519,user_401,3.5,Forrest Gump (1994)
+520,user_404,4.0,Forrest Gump (1994)
+521,user_411,5.0,Forrest Gump (1994)
+522,user_414,5.0,Forrest Gump (1994)
+523,user_415,5.0,Forrest Gump (1994)
+524,user_416,2.5,Forrest Gump (1994)
+525,user_417,4.0,Forrest Gump (1994)
+526,user_418,4.0,Forrest Gump (1994)
+527,user_419,4.5,Forrest Gump (1994)
+528,user_420,4.0,Forrest Gump (1994)
+529,user_423,5.0,Forrest Gump (1994)
+530,user_425,5.0,Forrest Gump (1994)
+531,user_426,5.0,Forrest Gump (1994)
+532,user_428,3.0,Forrest Gump (1994)
+533,user_430,3.0,Forrest Gump (1994)
+534,user_432,4.5,Forrest Gump (1994)
+535,user_434,4.5,Forrest Gump (1994)
+536,user_436,4.0,Forrest Gump (1994)
+537,user_437,3.0,Forrest Gump (1994)
+538,user_438,4.0,Forrest Gump (1994)
+539,user_439,5.0,Forrest Gump (1994)
+540,user_443,5.0,Forrest Gump (1994)
+541,user_444,5.0,Forrest Gump (1994)
+542,user_445,3.0,Forrest Gump (1994)
+543,user_446,3.0,Forrest Gump (1994)
+544,user_447,4.0,Forrest Gump (1994)
+545,user_448,3.0,Forrest Gump (1994)
+546,user_452,5.0,Forrest Gump (1994)
+547,user_453,5.0,Forrest Gump (1994)
+548,user_455,5.0,Forrest Gump (1994)
+549,user_458,5.0,Forrest Gump (1994)
+550,user_460,4.5,Forrest Gump (1994)
+551,user_461,5.0,Forrest Gump (1994)
+552,user_462,2.5,Forrest Gump (1994)
+553,user_463,4.0,Forrest Gump (1994)
+554,user_464,5.0,Forrest Gump (1994)
+555,user_465,5.0,Forrest Gump (1994)
+556,user_466,5.0,Forrest Gump (1994)
+557,user_470,5.0,Forrest Gump (1994)
+558,user_471,3.0,Forrest Gump (1994)
+559,user_474,3.0,Forrest Gump (1994)
+560,user_476,5.0,Forrest Gump (1994)
+561,user_477,5.0,Forrest Gump (1994)
+562,user_480,5.0,Forrest Gump (1994)
+563,user_483,5.0,Forrest Gump (1994)
+564,user_484,5.0,Forrest Gump (1994)
+565,user_485,5.0,Forrest Gump (1994)
+566,user_486,5.0,Forrest Gump (1994)
+567,user_489,4.0,Forrest Gump (1994)
+568,user_490,3.5,Forrest Gump (1994)
+569,user_491,4.5,Forrest Gump (1994)
+570,user_495,4.0,Forrest Gump (1994)
+571,user_498,5.0,Forrest Gump (1994)
+572,user_500,4.0,Forrest Gump (1994)
+573,user_503,4.0,Forrest Gump (1994)
+574,user_507,4.0,Forrest Gump (1994)
+575,user_511,4.5,Forrest Gump (1994)
+576,user_512,5.0,Forrest Gump (1994)
+577,user_514,4.0,Forrest Gump (1994)
+578,user_515,5.0,Forrest Gump (1994)
+579,user_517,3.5,Forrest Gump (1994)
+580,user_519,5.0,Forrest Gump (1994)
+581,user_520,3.5,Forrest Gump (1994)
+582,user_522,3.5,Forrest Gump (1994)
+583,user_523,4.5,Forrest Gump (1994)
+584,user_525,4.0,Forrest Gump (1994)
+585,user_528,5.0,Forrest Gump (1994)
+586,user_530,5.0,Forrest Gump (1994)
+587,user_533,5.0,Forrest Gump (1994)
+588,user_534,4.5,Forrest Gump (1994)
+589,user_536,5.0,Forrest Gump (1994)
+590,user_541,5.0,Forrest Gump (1994)
+591,user_542,5.0,Forrest Gump (1994)
+592,user_543,3.0,Forrest Gump (1994)
+593,user_548,5.0,Forrest Gump (1994)
+594,user_550,4.0,Forrest Gump (1994)
+595,user_551,4.5,Forrest Gump (1994)
+596,user_552,4.0,Forrest Gump (1994)
+597,user_555,5.0,Forrest Gump (1994)
+598,user_559,4.0,Forrest Gump (1994)
+599,user_560,3.5,Forrest Gump (1994)
+600,user_561,4.0,Forrest Gump (1994)
+601,user_562,5.0,Forrest Gump (1994)
+602,user_563,4.0,Forrest Gump (1994)
+603,user_564,3.0,Forrest Gump (1994)
+604,user_565,4.0,Forrest Gump (1994)
+605,user_566,5.0,Forrest Gump (1994)
+606,user_567,3.0,Forrest Gump (1994)
+607,user_568,5.0,Forrest Gump (1994)
+608,user_569,3.0,Forrest Gump (1994)
+609,user_570,4.0,Forrest Gump (1994)
+610,user_572,4.0,Forrest Gump (1994)
+611,user_573,4.5,Forrest Gump (1994)
+612,user_577,5.0,Forrest Gump (1994)
+613,user_579,5.0,Forrest Gump (1994)
+614,user_580,4.0,Forrest Gump (1994)
+615,user_581,4.5,Forrest Gump (1994)
+616,user_583,4.0,Forrest Gump (1994)
+617,user_584,5.0,Forrest Gump (1994)
+618,user_587,4.0,Forrest Gump (1994)
+619,user_588,3.0,Forrest Gump (1994)
+620,user_589,5.0,Forrest Gump (1994)
+621,user_590,5.0,Forrest Gump (1994)
+622,user_591,4.0,Forrest Gump (1994)
+623,user_592,5.0,Forrest Gump (1994)
+624,user_593,4.0,Forrest Gump (1994)
+625,user_596,3.5,Forrest Gump (1994)
+626,user_597,5.0,Forrest Gump (1994)
+627,user_599,3.5,Forrest Gump (1994)
+628,user_600,4.0,Forrest Gump (1994)
+629,user_602,3.0,Forrest Gump (1994)
+630,user_603,3.0,Forrest Gump (1994)
+631,user_605,3.0,Forrest Gump (1994)
+632,user_606,4.0,Forrest Gump (1994)
+633,user_608,3.0,Forrest Gump (1994)
+634,user_609,4.0,Forrest Gump (1994)
+635,user_610,3.0,Forrest Gump (1994)
+636,user_001,4.0,"Silence of the Lambs, The (1991)"
+637,user_004,5.0,"Silence of the Lambs, The (1991)"
+638,user_006,4.0,"Silence of the Lambs, The (1991)"
+639,user_007,5.0,"Silence of the Lambs, The (1991)"
+640,user_008,4.0,"Silence of the Lambs, The (1991)"
+641,user_011,5.0,"Silence of the Lambs, The (1991)"
+642,user_014,4.0,"Silence of the Lambs, The (1991)"
+643,user_016,3.0,"Silence of the Lambs, The (1991)"
+644,user_017,4.5,"Silence of the Lambs, The (1991)"
+645,user_018,4.5,"Silence of the Lambs, The (1991)"
+646,user_024,4.5,"Silence of the Lambs, The (1991)"
+647,user_026,4.0,"Silence of the Lambs, The (1991)"
+648,user_028,2.5,"Silence of the Lambs, The (1991)"
+649,user_032,5.0,"Silence of the Lambs, The (1991)"
+650,user_033,5.0,"Silence of the Lambs, The (1991)"
+651,user_037,5.0,"Silence of the Lambs, The (1991)"
+652,user_038,3.0,"Silence of the Lambs, The (1991)"
+653,user_039,5.0,"Silence of the Lambs, The (1991)"
+654,user_041,4.0,"Silence of the Lambs, The (1991)"
+655,user_042,5.0,"Silence of the Lambs, The (1991)"
+656,user_045,4.0,"Silence of the Lambs, The (1991)"
+657,user_046,5.0,"Silence of the Lambs, The (1991)"
+658,user_047,2.0,"Silence of the Lambs, The (1991)"
+659,user_050,3.5,"Silence of the Lambs, The (1991)"
+660,user_051,5.0,"Silence of the Lambs, The (1991)"
+661,user_054,4.0,"Silence of the Lambs, The (1991)"
+662,user_056,5.0,"Silence of the Lambs, The (1991)"
+663,user_057,5.0,"Silence of the Lambs, The (1991)"
+664,user_059,5.0,"Silence of the Lambs, The (1991)"
+665,user_061,4.0,"Silence of the Lambs, The (1991)"
+666,user_062,5.0,"Silence of the Lambs, The (1991)"
+667,user_064,5.0,"Silence of the Lambs, The (1991)"
+668,user_066,4.0,"Silence of the Lambs, The (1991)"
+669,user_068,3.5,"Silence of the Lambs, The (1991)"
+670,user_069,5.0,"Silence of the Lambs, The (1991)"
+671,user_072,4.5,"Silence of the Lambs, The (1991)"
+672,user_076,3.5,"Silence of the Lambs, The (1991)"
+673,user_078,3.0,"Silence of the Lambs, The (1991)"
+674,user_080,5.0,"Silence of the Lambs, The (1991)"
+675,user_084,5.0,"Silence of the Lambs, The (1991)"
+676,user_091,4.5,"Silence of the Lambs, The (1991)"
+677,user_093,5.0,"Silence of the Lambs, The (1991)"
+678,user_094,3.0,"Silence of the Lambs, The (1991)"
+679,user_097,5.0,"Silence of the Lambs, The (1991)"
+680,user_098,4.5,"Silence of the Lambs, The (1991)"
+681,user_102,4.0,"Silence of the Lambs, The (1991)"
+682,user_103,5.0,"Silence of the Lambs, The (1991)"
+683,user_105,4.5,"Silence of the Lambs, The (1991)"
+684,user_109,4.0,"Silence of the Lambs, The (1991)"
+685,user_111,0.5,"Silence of the Lambs, The (1991)"
+686,user_112,4.0,"Silence of the Lambs, The (1991)"
+687,user_113,4.0,"Silence of the Lambs, The (1991)"
+688,user_114,3.0,"Silence of the Lambs, The (1991)"
+689,user_115,5.0,"Silence of the Lambs, The (1991)"
+690,user_116,2.0,"Silence of the Lambs, The (1991)"
+691,user_117,5.0,"Silence of the Lambs, The (1991)"
+692,user_122,5.0,"Silence of the Lambs, The (1991)"
+693,user_123,4.0,"Silence of the Lambs, The (1991)"
+694,user_124,4.0,"Silence of the Lambs, The (1991)"
+695,user_125,4.0,"Silence of the Lambs, The (1991)"
+696,user_126,3.0,"Silence of the Lambs, The (1991)"
+697,user_128,5.0,"Silence of the Lambs, The (1991)"
+698,user_131,4.0,"Silence of the Lambs, The (1991)"
+699,user_132,3.5,"Silence of the Lambs, The (1991)"
+700,user_133,3.0,"Silence of the Lambs, The (1991)"
+701,user_134,5.0,"Silence of the Lambs, The (1991)"
+702,user_135,5.0,"Silence of the Lambs, The (1991)"
+703,user_136,3.0,"Silence of the Lambs, The (1991)"
+704,user_137,4.0,"Silence of the Lambs, The (1991)"
+705,user_140,4.0,"Silence of the Lambs, The (1991)"
+706,user_142,5.0,"Silence of the Lambs, The (1991)"
+707,user_144,4.5,"Silence of the Lambs, The (1991)"
+708,user_152,4.5,"Silence of the Lambs, The (1991)"
+709,user_156,4.0,"Silence of the Lambs, The (1991)"
+710,user_160,2.0,"Silence of the Lambs, The (1991)"
+711,user_166,4.0,"Silence of the Lambs, The (1991)"
+712,user_167,2.5,"Silence of the Lambs, The (1991)"
+713,user_170,4.0,"Silence of the Lambs, The (1991)"
+714,user_171,5.0,"Silence of the Lambs, The (1991)"
+715,user_172,4.0,"Silence of the Lambs, The (1991)"
+716,user_176,5.0,"Silence of the Lambs, The (1991)"
+717,user_177,5.0,"Silence of the Lambs, The (1991)"
+718,user_178,4.5,"Silence of the Lambs, The (1991)"
+719,user_179,4.0,"Silence of the Lambs, The (1991)"
+720,user_181,3.0,"Silence of the Lambs, The (1991)"
+721,user_182,4.5,"Silence of the Lambs, The (1991)"
+722,user_186,5.0,"Silence of the Lambs, The (1991)"
+723,user_187,4.0,"Silence of the Lambs, The (1991)"
+724,user_189,4.0,"Silence of the Lambs, The (1991)"
+725,user_192,3.0,"Silence of the Lambs, The (1991)"
+726,user_193,3.5,"Silence of the Lambs, The (1991)"
+727,user_198,4.0,"Silence of the Lambs, The (1991)"
+728,user_199,4.0,"Silence of the Lambs, The (1991)"
+729,user_201,5.0,"Silence of the Lambs, The (1991)"
+730,user_202,5.0,"Silence of the Lambs, The (1991)"
+731,user_204,4.5,"Silence of the Lambs, The (1991)"
+732,user_209,4.5,"Silence of the Lambs, The (1991)"
+733,user_212,3.5,"Silence of the Lambs, The (1991)"
+734,user_215,3.0,"Silence of the Lambs, The (1991)"
+735,user_219,4.5,"Silence of the Lambs, The (1991)"
+736,user_221,4.0,"Silence of the Lambs, The (1991)"
+737,user_223,2.5,"Silence of the Lambs, The (1991)"
+738,user_224,4.0,"Silence of the Lambs, The (1991)"
+739,user_227,4.5,"Silence of the Lambs, The (1991)"
+740,user_229,4.0,"Silence of the Lambs, The (1991)"
+741,user_230,3.0,"Silence of the Lambs, The (1991)"
+742,user_231,4.0,"Silence of the Lambs, The (1991)"
+743,user_233,4.5,"Silence of the Lambs, The (1991)"
+744,user_235,5.0,"Silence of the Lambs, The (1991)"
+745,user_238,3.0,"Silence of the Lambs, The (1991)"
+746,user_239,3.5,"Silence of the Lambs, The (1991)"
+747,user_241,4.5,"Silence of the Lambs, The (1991)"
+748,user_242,5.0,"Silence of the Lambs, The (1991)"
+749,user_244,4.0,"Silence of the Lambs, The (1991)"
+750,user_247,4.0,"Silence of the Lambs, The (1991)"
+751,user_249,4.0,"Silence of the Lambs, The (1991)"
+752,user_251,5.0,"Silence of the Lambs, The (1991)"
+753,user_254,4.0,"Silence of the Lambs, The (1991)"
+754,user_256,4.5,"Silence of the Lambs, The (1991)"
+755,user_262,2.0,"Silence of the Lambs, The (1991)"
+756,user_263,5.0,"Silence of the Lambs, The (1991)"
+757,user_265,5.0,"Silence of the Lambs, The (1991)"
+758,user_267,5.0,"Silence of the Lambs, The (1991)"
+759,user_273,5.0,"Silence of the Lambs, The (1991)"
+760,user_274,4.0,"Silence of the Lambs, The (1991)"
+761,user_275,5.0,"Silence of the Lambs, The (1991)"
+762,user_279,4.0,"Silence of the Lambs, The (1991)"
+763,user_282,4.0,"Silence of the Lambs, The (1991)"
+764,user_283,4.0,"Silence of the Lambs, The (1991)"
+765,user_286,4.0,"Silence of the Lambs, The (1991)"
+766,user_288,5.0,"Silence of the Lambs, The (1991)"
+767,user_290,4.0,"Silence of the Lambs, The (1991)"
+768,user_292,3.0,"Silence of the Lambs, The (1991)"
+769,user_293,4.0,"Silence of the Lambs, The (1991)"
+770,user_297,4.0,"Silence of the Lambs, The (1991)"
+771,user_300,4.0,"Silence of the Lambs, The (1991)"
+772,user_304,4.0,"Silence of the Lambs, The (1991)"
+773,user_305,5.0,"Silence of the Lambs, The (1991)"
+774,user_307,4.5,"Silence of the Lambs, The (1991)"
+775,user_313,5.0,"Silence of the Lambs, The (1991)"
+776,user_314,3.0,"Silence of the Lambs, The (1991)"
+777,user_317,5.0,"Silence of the Lambs, The (1991)"
+778,user_318,4.0,"Silence of the Lambs, The (1991)"
+779,user_321,4.0,"Silence of the Lambs, The (1991)"
+780,user_325,5.0,"Silence of the Lambs, The (1991)"
+781,user_326,4.5,"Silence of the Lambs, The (1991)"
+782,user_329,2.0,"Silence of the Lambs, The (1991)"
+783,user_330,5.0,"Silence of the Lambs, The (1991)"
+784,user_331,5.0,"Silence of the Lambs, The (1991)"
+785,user_332,4.5,"Silence of the Lambs, The (1991)"
+786,user_335,3.5,"Silence of the Lambs, The (1991)"
+787,user_336,5.0,"Silence of the Lambs, The (1991)"
+788,user_338,4.0,"Silence of the Lambs, The (1991)"
+789,user_339,5.0,"Silence of the Lambs, The (1991)"
+790,user_343,4.5,"Silence of the Lambs, The (1991)"
+791,user_348,5.0,"Silence of the Lambs, The (1991)"
+792,user_349,5.0,"Silence of the Lambs, The (1991)"
+793,user_351,4.5,"Silence of the Lambs, The (1991)"
+794,user_352,4.0,"Silence of the Lambs, The (1991)"
+795,user_353,5.0,"Silence of the Lambs, The (1991)"
+796,user_354,4.0,"Silence of the Lambs, The (1991)"
+797,user_357,4.5,"Silence of the Lambs, The (1991)"
+798,user_359,4.5,"Silence of the Lambs, The (1991)"
+799,user_361,2.5,"Silence of the Lambs, The (1991)"
+800,user_362,5.0,"Silence of the Lambs, The (1991)"
+801,user_365,0.5,"Silence of the Lambs, The (1991)"
+802,user_367,5.0,"Silence of the Lambs, The (1991)"
+803,user_368,4.0,"Silence of the Lambs, The (1991)"
+804,user_370,4.0,"Silence of the Lambs, The (1991)"
+805,user_372,4.0,"Silence of the Lambs, The (1991)"
+806,user_373,5.0,"Silence of the Lambs, The (1991)"
+807,user_378,4.5,"Silence of the Lambs, The (1991)"
+808,user_380,5.0,"Silence of the Lambs, The (1991)"
+809,user_382,5.0,"Silence of the Lambs, The (1991)"
+810,user_385,3.0,"Silence of the Lambs, The (1991)"
+811,user_386,4.0,"Silence of the Lambs, The (1991)"
+812,user_387,4.0,"Silence of the Lambs, The (1991)"
+813,user_391,3.0,"Silence of the Lambs, The (1991)"
+814,user_399,4.5,"Silence of the Lambs, The (1991)"
+815,user_400,5.0,"Silence of the Lambs, The (1991)"
+816,user_402,5.0,"Silence of the Lambs, The (1991)"
+817,user_404,4.0,"Silence of the Lambs, The (1991)"
+818,user_409,4.0,"Silence of the Lambs, The (1991)"
+819,user_410,3.0,"Silence of the Lambs, The (1991)"
+820,user_411,5.0,"Silence of the Lambs, The (1991)"
+821,user_412,4.0,"Silence of the Lambs, The (1991)"
+822,user_413,5.0,"Silence of the Lambs, The (1991)"
+823,user_414,4.0,"Silence of the Lambs, The (1991)"
+824,user_415,5.0,"Silence of the Lambs, The (1991)"
+825,user_417,4.0,"Silence of the Lambs, The (1991)"
+826,user_418,4.0,"Silence of the Lambs, The (1991)"
+827,user_419,3.0,"Silence of the Lambs, The (1991)"
+828,user_421,5.0,"Silence of the Lambs, The (1991)"
+829,user_424,4.0,"Silence of the Lambs, The (1991)"
+830,user_425,4.0,"Silence of the Lambs, The (1991)"
+831,user_428,2.5,"Silence of the Lambs, The (1991)"
+832,user_432,4.0,"Silence of the Lambs, The (1991)"
+833,user_433,4.0,"Silence of the Lambs, The (1991)"
+834,user_434,4.0,"Silence of the Lambs, The (1991)"
+835,user_436,3.0,"Silence of the Lambs, The (1991)"
+836,user_441,4.5,"Silence of the Lambs, The (1991)"
+837,user_443,3.5,"Silence of the Lambs, The (1991)"
+838,user_444,5.0,"Silence of the Lambs, The (1991)"
+839,user_445,4.0,"Silence of the Lambs, The (1991)"
+840,user_446,5.0,"Silence of the Lambs, The (1991)"
+841,user_447,4.0,"Silence of the Lambs, The (1991)"
+842,user_448,5.0,"Silence of the Lambs, The (1991)"
+843,user_451,5.0,"Silence of the Lambs, The (1991)"
+844,user_453,4.0,"Silence of the Lambs, The (1991)"
+845,user_455,5.0,"Silence of the Lambs, The (1991)"
+846,user_461,4.0,"Silence of the Lambs, The (1991)"
+847,user_462,3.5,"Silence of the Lambs, The (1991)"
+848,user_464,5.0,"Silence of the Lambs, The (1991)"
+849,user_465,5.0,"Silence of the Lambs, The (1991)"
+850,user_467,1.0,"Silence of the Lambs, The (1991)"
+851,user_469,4.0,"Silence of the Lambs, The (1991)"
+852,user_474,4.5,"Silence of the Lambs, The (1991)"
+853,user_477,5.0,"Silence of the Lambs, The (1991)"
+854,user_479,4.0,"Silence of the Lambs, The (1991)"
+855,user_480,4.5,"Silence of the Lambs, The (1991)"
+856,user_485,5.0,"Silence of the Lambs, The (1991)"
+857,user_486,3.0,"Silence of the Lambs, The (1991)"
+858,user_487,2.5,"Silence of the Lambs, The (1991)"
+859,user_488,4.5,"Silence of the Lambs, The (1991)"
+860,user_489,4.0,"Silence of the Lambs, The (1991)"
+861,user_490,4.0,"Silence of the Lambs, The (1991)"
+862,user_497,4.0,"Silence of the Lambs, The (1991)"
+863,user_503,3.5,"Silence of the Lambs, The (1991)"
+864,user_505,5.0,"Silence of the Lambs, The (1991)"
+865,user_507,3.0,"Silence of the Lambs, The (1991)"
+866,user_510,3.5,"Silence of the Lambs, The (1991)"
+867,user_512,5.0,"Silence of the Lambs, The (1991)"
+868,user_513,4.0,"Silence of the Lambs, The (1991)"
+869,user_514,5.0,"Silence of the Lambs, The (1991)"
+870,user_517,3.0,"Silence of the Lambs, The (1991)"
+871,user_524,4.0,"Silence of the Lambs, The (1991)"
+872,user_525,3.5,"Silence of the Lambs, The (1991)"
+873,user_526,4.0,"Silence of the Lambs, The (1991)"
+874,user_527,5.0,"Silence of the Lambs, The (1991)"
+875,user_528,4.0,"Silence of the Lambs, The (1991)"
+876,user_530,4.0,"Silence of the Lambs, The (1991)"
+877,user_531,5.0,"Silence of the Lambs, The (1991)"
+878,user_532,4.0,"Silence of the Lambs, The (1991)"
+879,user_534,4.0,"Silence of the Lambs, The (1991)"
+880,user_536,4.0,"Silence of the Lambs, The (1991)"
+881,user_541,4.0,"Silence of the Lambs, The (1991)"
+882,user_551,4.5,"Silence of the Lambs, The (1991)"
+883,user_554,5.0,"Silence of the Lambs, The (1991)"
+884,user_555,5.0,"Silence of the Lambs, The (1991)"
+885,user_558,4.0,"Silence of the Lambs, The (1991)"
+886,user_560,4.0,"Silence of the Lambs, The (1991)"
+887,user_561,4.0,"Silence of the Lambs, The (1991)"
+888,user_562,5.0,"Silence of the Lambs, The (1991)"
+889,user_568,5.0,"Silence of the Lambs, The (1991)"
+890,user_572,4.0,"Silence of the Lambs, The (1991)"
+891,user_573,4.5,"Silence of the Lambs, The (1991)"
+892,user_574,5.0,"Silence of the Lambs, The (1991)"
+893,user_577,4.0,"Silence of the Lambs, The (1991)"
+894,user_580,4.5,"Silence of the Lambs, The (1991)"
+895,user_582,4.0,"Silence of the Lambs, The (1991)"
+896,user_583,2.5,"Silence of the Lambs, The (1991)"
+897,user_584,4.0,"Silence of the Lambs, The (1991)"
+898,user_588,5.0,"Silence of the Lambs, The (1991)"
+899,user_589,5.0,"Silence of the Lambs, The (1991)"
+900,user_590,3.5,"Silence of the Lambs, The (1991)"
+901,user_592,5.0,"Silence of the Lambs, The (1991)"
+902,user_593,4.0,"Silence of the Lambs, The (1991)"
+903,user_594,5.0,"Silence of the Lambs, The (1991)"
+904,user_596,4.0,"Silence of the Lambs, The (1991)"
+905,user_598,0.5,"Silence of the Lambs, The (1991)"
+906,user_599,3.0,"Silence of the Lambs, The (1991)"
+907,user_600,4.0,"Silence of the Lambs, The (1991)"
+908,user_602,5.0,"Silence of the Lambs, The (1991)"
+909,user_603,5.0,"Silence of the Lambs, The (1991)"
+910,user_604,5.0,"Silence of the Lambs, The (1991)"
+911,user_606,4.5,"Silence of the Lambs, The (1991)"
+912,user_607,5.0,"Silence of the Lambs, The (1991)"
+913,user_608,4.0,"Silence of the Lambs, The (1991)"
+914,user_610,4.5,"Silence of the Lambs, The (1991)"
+915,user_001,5.0,"Matrix, The (1999)"
+916,user_004,1.0,"Matrix, The (1999)"
+917,user_010,0.5,"Matrix, The (1999)"
+918,user_013,5.0,"Matrix, The (1999)"
+919,user_015,4.0,"Matrix, The (1999)"
+920,user_016,3.5,"Matrix, The (1999)"
+921,user_017,5.0,"Matrix, The (1999)"
+922,user_018,4.5,"Matrix, The (1999)"
+923,user_019,4.0,"Matrix, The (1999)"
+924,user_021,4.0,"Matrix, The (1999)"
+925,user_024,4.0,"Matrix, The (1999)"
+926,user_025,5.0,"Matrix, The (1999)"
+927,user_028,4.0,"Matrix, The (1999)"
+928,user_030,5.0,"Matrix, The (1999)"
+929,user_033,5.0,"Matrix, The (1999)"
+930,user_034,3.0,"Matrix, The (1999)"
+931,user_039,5.0,"Matrix, The (1999)"
+932,user_041,2.0,"Matrix, The (1999)"
+933,user_042,5.0,"Matrix, The (1999)"
+934,user_045,5.0,"Matrix, The (1999)"
+935,user_048,5.0,"Matrix, The (1999)"
+936,user_049,4.5,"Matrix, The (1999)"
+937,user_050,2.5,"Matrix, The (1999)"
+938,user_052,5.0,"Matrix, The (1999)"
+939,user_057,5.0,"Matrix, The (1999)"
+940,user_059,1.0,"Matrix, The (1999)"
+941,user_062,5.0,"Matrix, The (1999)"
+942,user_063,3.5,"Matrix, The (1999)"
+943,user_064,4.0,"Matrix, The (1999)"
+944,user_066,5.0,"Matrix, The (1999)"
+945,user_067,4.5,"Matrix, The (1999)"
+946,user_068,4.5,"Matrix, The (1999)"
+947,user_069,5.0,"Matrix, The (1999)"
+948,user_072,5.0,"Matrix, The (1999)"
+949,user_075,1.0,"Matrix, The (1999)"
+950,user_076,4.0,"Matrix, The (1999)"
+951,user_077,5.0,"Matrix, The (1999)"
+952,user_078,4.5,"Matrix, The (1999)"
+953,user_079,4.0,"Matrix, The (1999)"
+954,user_080,4.5,"Matrix, The (1999)"
+955,user_082,4.0,"Matrix, The (1999)"
+956,user_086,4.5,"Matrix, The (1999)"
+957,user_091,5.0,"Matrix, The (1999)"
+958,user_095,5.0,"Matrix, The (1999)"
+959,user_096,4.0,"Matrix, The (1999)"
+960,user_097,5.0,"Matrix, The (1999)"
+961,user_103,4.0,"Matrix, The (1999)"
+962,user_105,4.0,"Matrix, The (1999)"
+963,user_106,5.0,"Matrix, The (1999)"
+964,user_108,5.0,"Matrix, The (1999)"
+965,user_110,4.0,"Matrix, The (1999)"
+966,user_111,0.5,"Matrix, The (1999)"
+967,user_112,5.0,"Matrix, The (1999)"
+968,user_115,3.0,"Matrix, The (1999)"
+969,user_119,4.0,"Matrix, The (1999)"
+970,user_122,5.0,"Matrix, The (1999)"
+971,user_123,4.0,"Matrix, The (1999)"
+972,user_125,5.0,"Matrix, The (1999)"
+973,user_129,4.5,"Matrix, The (1999)"
+974,user_131,3.0,"Matrix, The (1999)"
+975,user_132,4.5,"Matrix, The (1999)"
+976,user_135,5.0,"Matrix, The (1999)"
+977,user_137,4.0,"Matrix, The (1999)"
+978,user_140,4.0,"Matrix, The (1999)"
+979,user_141,3.5,"Matrix, The (1999)"
+980,user_144,4.0,"Matrix, The (1999)"
+981,user_152,4.0,"Matrix, The (1999)"
+982,user_153,0.5,"Matrix, The (1999)"
+983,user_156,3.0,"Matrix, The (1999)"
+984,user_160,4.0,"Matrix, The (1999)"
+985,user_165,4.0,"Matrix, The (1999)"
+986,user_166,4.0,"Matrix, The (1999)"
+987,user_169,4.5,"Matrix, The (1999)"
+988,user_177,3.0,"Matrix, The (1999)"
+989,user_178,4.5,"Matrix, The (1999)"
+990,user_180,3.5,"Matrix, The (1999)"
+991,user_182,5.0,"Matrix, The (1999)"
+992,user_186,3.0,"Matrix, The (1999)"
+993,user_187,4.0,"Matrix, The (1999)"
+994,user_189,4.0,"Matrix, The (1999)"
+995,user_190,3.0,"Matrix, The (1999)"
+996,user_195,3.0,"Matrix, The (1999)"
+997,user_196,5.0,"Matrix, The (1999)"
+998,user_197,5.0,"Matrix, The (1999)"
+999,user_198,5.0,"Matrix, The (1999)"
+1000,user_199,4.0,"Matrix, The (1999)"
+1001,user_200,5.0,"Matrix, The (1999)"
+1002,user_202,4.0,"Matrix, The (1999)"
+1003,user_203,2.5,"Matrix, The (1999)"
+1004,user_204,4.5,"Matrix, The (1999)"
+1005,user_208,5.0,"Matrix, The (1999)"
+1006,user_209,5.0,"Matrix, The (1999)"
+1007,user_210,5.0,"Matrix, The (1999)"
+1008,user_211,5.0,"Matrix, The (1999)"
+1009,user_212,3.0,"Matrix, The (1999)"
+1010,user_217,3.0,"Matrix, The (1999)"
+1011,user_219,5.0,"Matrix, The (1999)"
+1012,user_220,5.0,"Matrix, The (1999)"
+1013,user_221,2.0,"Matrix, The (1999)"
+1014,user_222,4.0,"Matrix, The (1999)"
+1015,user_223,3.5,"Matrix, The (1999)"
+1016,user_226,4.0,"Matrix, The (1999)"
+1017,user_227,4.5,"Matrix, The (1999)"
+1018,user_228,4.5,"Matrix, The (1999)"
+1019,user_231,5.0,"Matrix, The (1999)"
+1020,user_232,4.5,"Matrix, The (1999)"
+1021,user_233,4.5,"Matrix, The (1999)"
+1022,user_234,5.0,"Matrix, The (1999)"
+1023,user_237,4.0,"Matrix, The (1999)"
+1024,user_239,5.0,"Matrix, The (1999)"
+1025,user_241,4.0,"Matrix, The (1999)"
+1026,user_244,4.0,"Matrix, The (1999)"
+1027,user_246,5.0,"Matrix, The (1999)"
+1028,user_247,3.5,"Matrix, The (1999)"
+1029,user_248,4.0,"Matrix, The (1999)"
+1030,user_249,5.0,"Matrix, The (1999)"
+1031,user_251,5.0,"Matrix, The (1999)"
+1032,user_254,5.0,"Matrix, The (1999)"
+1033,user_256,4.5,"Matrix, The (1999)"
+1034,user_258,5.0,"Matrix, The (1999)"
+1035,user_261,4.0,"Matrix, The (1999)"
+1036,user_263,4.0,"Matrix, The (1999)"
+1037,user_264,4.5,"Matrix, The (1999)"
+1038,user_265,5.0,"Matrix, The (1999)"
+1039,user_266,5.0,"Matrix, The (1999)"
+1040,user_267,5.0,"Matrix, The (1999)"
+1041,user_268,5.0,"Matrix, The (1999)"
+1042,user_272,4.0,"Matrix, The (1999)"
+1043,user_274,4.0,"Matrix, The (1999)"
+1044,user_275,5.0,"Matrix, The (1999)"
+1045,user_279,4.5,"Matrix, The (1999)"
+1046,user_282,5.0,"Matrix, The (1999)"
+1047,user_286,4.5,"Matrix, The (1999)"
+1048,user_288,3.0,"Matrix, The (1999)"
+1049,user_292,4.0,"Matrix, The (1999)"
+1050,user_296,4.5,"Matrix, The (1999)"
+1051,user_298,4.0,"Matrix, The (1999)"
+1052,user_300,4.0,"Matrix, The (1999)"
+1053,user_303,5.0,"Matrix, The (1999)"
+1054,user_304,4.0,"Matrix, The (1999)"
+1055,user_305,5.0,"Matrix, The (1999)"
+1056,user_307,3.5,"Matrix, The (1999)"
+1057,user_308,3.0,"Matrix, The (1999)"
+1058,user_309,4.0,"Matrix, The (1999)"
+1059,user_312,3.0,"Matrix, The (1999)"
+1060,user_313,5.0,"Matrix, The (1999)"
+1061,user_316,4.5,"Matrix, The (1999)"
+1062,user_317,4.0,"Matrix, The (1999)"
+1063,user_318,3.5,"Matrix, The (1999)"
+1064,user_319,5.0,"Matrix, The (1999)"
+1065,user_322,4.0,"Matrix, The (1999)"
+1066,user_323,3.0,"Matrix, The (1999)"
+1067,user_326,3.5,"Matrix, The (1999)"
+1068,user_328,2.0,"Matrix, The (1999)"
+1069,user_330,3.5,"Matrix, The (1999)"
+1070,user_332,5.0,"Matrix, The (1999)"
+1071,user_334,4.0,"Matrix, The (1999)"
+1072,user_335,5.0,"Matrix, The (1999)"
+1073,user_336,5.0,"Matrix, The (1999)"
+1074,user_343,5.0,"Matrix, The (1999)"
+1075,user_344,5.0,"Matrix, The (1999)"
+1076,user_351,4.0,"Matrix, The (1999)"
+1077,user_352,4.5,"Matrix, The (1999)"
+1078,user_354,4.0,"Matrix, The (1999)"
+1079,user_356,4.0,"Matrix, The (1999)"
+1080,user_359,2.5,"Matrix, The (1999)"
+1081,user_362,4.5,"Matrix, The (1999)"
+1082,user_363,2.5,"Matrix, The (1999)"
+1083,user_368,4.0,"Matrix, The (1999)"
+1084,user_369,4.5,"Matrix, The (1999)"
+1085,user_370,4.0,"Matrix, The (1999)"
+1086,user_371,5.0,"Matrix, The (1999)"
+1087,user_376,3.5,"Matrix, The (1999)"
+1088,user_380,4.5,"Matrix, The (1999)"
+1089,user_381,5.0,"Matrix, The (1999)"
+1090,user_382,5.0,"Matrix, The (1999)"
+1091,user_387,4.0,"Matrix, The (1999)"
+1092,user_390,4.5,"Matrix, The (1999)"
+1093,user_391,5.0,"Matrix, The (1999)"
+1094,user_393,5.0,"Matrix, The (1999)"
+1095,user_399,5.0,"Matrix, The (1999)"
+1096,user_400,5.0,"Matrix, The (1999)"
+1097,user_405,4.5,"Matrix, The (1999)"
+1098,user_407,5.0,"Matrix, The (1999)"
+1099,user_408,4.5,"Matrix, The (1999)"
+1100,user_412,3.0,"Matrix, The (1999)"
+1101,user_414,5.0,"Matrix, The (1999)"
+1102,user_415,4.5,"Matrix, The (1999)"
+1103,user_416,1.0,"Matrix, The (1999)"
+1104,user_417,5.0,"Matrix, The (1999)"
+1105,user_419,4.0,"Matrix, The (1999)"
+1106,user_420,4.5,"Matrix, The (1999)"
+1107,user_424,2.0,"Matrix, The (1999)"
+1108,user_425,3.5,"Matrix, The (1999)"
+1109,user_428,4.0,"Matrix, The (1999)"
+1110,user_430,5.0,"Matrix, The (1999)"
+1111,user_432,3.5,"Matrix, The (1999)"
+1112,user_434,5.0,"Matrix, The (1999)"
+1113,user_438,5.0,"Matrix, The (1999)"
+1114,user_439,5.0,"Matrix, The (1999)"
+1115,user_441,5.0,"Matrix, The (1999)"
+1116,user_443,3.5,"Matrix, The (1999)"
+1117,user_445,5.0,"Matrix, The (1999)"
+1118,user_448,2.0,"Matrix, The (1999)"
+1119,user_452,5.0,"Matrix, The (1999)"
+1120,user_453,5.0,"Matrix, The (1999)"
+1121,user_459,4.0,"Matrix, The (1999)"
+1122,user_460,4.5,"Matrix, The (1999)"
+1123,user_461,0.5,"Matrix, The (1999)"
+1124,user_462,0.5,"Matrix, The (1999)"
+1125,user_464,5.0,"Matrix, The (1999)"
+1126,user_465,4.0,"Matrix, The (1999)"
+1127,user_466,4.0,"Matrix, The (1999)"
+1128,user_469,4.0,"Matrix, The (1999)"
+1129,user_471,3.5,"Matrix, The (1999)"
+1130,user_474,4.5,"Matrix, The (1999)"
+1131,user_475,4.5,"Matrix, The (1999)"
+1132,user_477,4.0,"Matrix, The (1999)"
+1133,user_480,5.0,"Matrix, The (1999)"
+1134,user_483,4.5,"Matrix, The (1999)"
+1135,user_487,3.0,"Matrix, The (1999)"
+1136,user_489,4.0,"Matrix, The (1999)"
+1137,user_490,4.0,"Matrix, The (1999)"
+1138,user_493,5.0,"Matrix, The (1999)"
+1139,user_494,5.0,"Matrix, The (1999)"
+1140,user_495,5.0,"Matrix, The (1999)"
+1141,user_497,2.5,"Matrix, The (1999)"
+1142,user_503,4.5,"Matrix, The (1999)"
+1143,user_509,3.5,"Matrix, The (1999)"
+1144,user_511,5.0,"Matrix, The (1999)"
+1145,user_514,4.0,"Matrix, The (1999)"
+1146,user_517,2.5,"Matrix, The (1999)"
+1147,user_520,5.0,"Matrix, The (1999)"
+1148,user_522,4.0,"Matrix, The (1999)"
+1149,user_525,4.0,"Matrix, The (1999)"
+1150,user_528,5.0,"Matrix, The (1999)"
+1151,user_532,5.0,"Matrix, The (1999)"
+1152,user_533,5.0,"Matrix, The (1999)"
+1153,user_534,4.0,"Matrix, The (1999)"
+1154,user_535,4.0,"Matrix, The (1999)"
+1155,user_537,4.0,"Matrix, The (1999)"
+1156,user_540,4.0,"Matrix, The (1999)"
+1157,user_542,5.0,"Matrix, The (1999)"
+1158,user_543,5.0,"Matrix, The (1999)"
+1159,user_548,5.0,"Matrix, The (1999)"
+1160,user_549,5.0,"Matrix, The (1999)"
+1161,user_550,4.5,"Matrix, The (1999)"
+1162,user_551,4.0,"Matrix, The (1999)"
+1163,user_552,4.5,"Matrix, The (1999)"
+1164,user_553,3.5,"Matrix, The (1999)"
+1165,user_554,5.0,"Matrix, The (1999)"
+1166,user_555,5.0,"Matrix, The (1999)"
+1167,user_557,4.5,"Matrix, The (1999)"
+1168,user_560,4.5,"Matrix, The (1999)"
+1169,user_561,4.0,"Matrix, The (1999)"
+1170,user_562,5.0,"Matrix, The (1999)"
+1171,user_570,4.5,"Matrix, The (1999)"
+1172,user_573,5.0,"Matrix, The (1999)"
+1173,user_575,4.0,"Matrix, The (1999)"
+1174,user_579,5.0,"Matrix, The (1999)"
+1175,user_580,5.0,"Matrix, The (1999)"
+1176,user_581,3.5,"Matrix, The (1999)"
+1177,user_582,5.0,"Matrix, The (1999)"
+1178,user_586,5.0,"Matrix, The (1999)"
+1179,user_587,4.0,"Matrix, The (1999)"
+1180,user_590,4.0,"Matrix, The (1999)"
+1181,user_591,5.0,"Matrix, The (1999)"
+1182,user_593,2.5,"Matrix, The (1999)"
+1183,user_594,5.0,"Matrix, The (1999)"
+1184,user_596,4.0,"Matrix, The (1999)"
+1185,user_599,5.0,"Matrix, The (1999)"
+1186,user_600,3.0,"Matrix, The (1999)"
+1187,user_601,5.0,"Matrix, The (1999)"
+1188,user_603,5.0,"Matrix, The (1999)"
+1189,user_606,5.0,"Matrix, The (1999)"
+1190,user_607,5.0,"Matrix, The (1999)"
+1191,user_608,5.0,"Matrix, The (1999)"
+1192,user_610,5.0,"Matrix, The (1999)"
+1193,user_002,3.0,"Shawshank Redemption, The (1994)"
+1194,user_005,3.0,"Shawshank Redemption, The (1994)"
+1195,user_006,5.0,"Shawshank Redemption, The (1994)"
+1196,user_008,5.0,"Shawshank Redemption, The (1994)"
+1197,user_011,4.0,"Shawshank Redemption, The (1994)"
+1198,user_014,3.0,"Shawshank Redemption, The (1994)"
+1199,user_015,5.0,"Shawshank Redemption, The (1994)"
+1200,user_016,4.0,"Shawshank Redemption, The (1994)"
+1201,user_017,5.0,"Shawshank Redemption, The (1994)"
+1202,user_018,5.0,"Shawshank Redemption, The (1994)"
+1203,user_022,5.0,"Shawshank Redemption, The (1994)"
+1204,user_024,4.5,"Shawshank Redemption, The (1994)"
+1205,user_028,3.5,"Shawshank Redemption, The (1994)"
+1206,user_029,4.5,"Shawshank Redemption, The (1994)"
+1207,user_030,5.0,"Shawshank Redemption, The (1994)"
+1208,user_032,5.0,"Shawshank Redemption, The (1994)"
+1209,user_033,4.0,"Shawshank Redemption, The (1994)"
+1210,user_034,4.0,"Shawshank Redemption, The (1994)"
+1211,user_036,4.0,"Shawshank Redemption, The (1994)"
+1212,user_037,4.0,"Shawshank Redemption, The (1994)"
+1213,user_038,5.0,"Shawshank Redemption, The (1994)"
+1214,user_040,5.0,"Shawshank Redemption, The (1994)"
+1215,user_042,4.0,"Shawshank Redemption, The (1994)"
+1216,user_043,4.0,"Shawshank Redemption, The (1994)"
+1217,user_046,4.0,"Shawshank Redemption, The (1994)"
+1218,user_047,4.0,"Shawshank Redemption, The (1994)"
+1219,user_049,4.0,"Shawshank Redemption, The (1994)"
+1220,user_050,3.5,"Shawshank Redemption, The (1994)"
+1221,user_052,5.0,"Shawshank Redemption, The (1994)"
+1222,user_054,4.0,"Shawshank Redemption, The (1994)"
+1223,user_056,4.0,"Shawshank Redemption, The (1994)"
+1224,user_058,5.0,"Shawshank Redemption, The (1994)"
+1225,user_060,4.0,"Shawshank Redemption, The (1994)"
+1226,user_061,5.0,"Shawshank Redemption, The (1994)"
+1227,user_062,4.0,"Shawshank Redemption, The (1994)"
+1228,user_063,5.0,"Shawshank Redemption, The (1994)"
+1229,user_064,5.0,"Shawshank Redemption, The (1994)"
+1230,user_065,4.0,"Shawshank Redemption, The (1994)"
+1231,user_066,4.5,"Shawshank Redemption, The (1994)"
+1232,user_067,4.5,"Shawshank Redemption, The (1994)"
+1233,user_068,3.0,"Shawshank Redemption, The (1994)"
+1234,user_069,5.0,"Shawshank Redemption, The (1994)"
+1235,user_070,4.5,"Shawshank Redemption, The (1994)"
+1236,user_072,5.0,"Shawshank Redemption, The (1994)"
+1237,user_076,3.0,"Shawshank Redemption, The (1994)"
+1238,user_078,4.5,"Shawshank Redemption, The (1994)"
+1239,user_080,5.0,"Shawshank Redemption, The (1994)"
+1240,user_081,3.0,"Shawshank Redemption, The (1994)"
+1241,user_083,5.0,"Shawshank Redemption, The (1994)"
+1242,user_084,5.0,"Shawshank Redemption, The (1994)"
+1243,user_086,4.5,"Shawshank Redemption, The (1994)"
+1244,user_088,5.0,"Shawshank Redemption, The (1994)"
+1245,user_091,2.0,"Shawshank Redemption, The (1994)"
+1246,user_093,4.0,"Shawshank Redemption, The (1994)"
+1247,user_094,5.0,"Shawshank Redemption, The (1994)"
+1248,user_099,5.0,"Shawshank Redemption, The (1994)"
+1249,user_102,4.0,"Shawshank Redemption, The (1994)"
+1250,user_103,5.0,"Shawshank Redemption, The (1994)"
+1251,user_105,5.0,"Shawshank Redemption, The (1994)"
+1252,user_106,5.0,"Shawshank Redemption, The (1994)"
+1253,user_107,5.0,"Shawshank Redemption, The (1994)"
+1254,user_109,5.0,"Shawshank Redemption, The (1994)"
+1255,user_111,4.5,"Shawshank Redemption, The (1994)"
+1256,user_117,5.0,"Shawshank Redemption, The (1994)"
+1257,user_119,4.5,"Shawshank Redemption, The (1994)"
+1258,user_121,5.0,"Shawshank Redemption, The (1994)"
+1259,user_122,5.0,"Shawshank Redemption, The (1994)"
+1260,user_123,4.0,"Shawshank Redemption, The (1994)"
+1261,user_124,4.5,"Shawshank Redemption, The (1994)"
+1262,user_125,4.0,"Shawshank Redemption, The (1994)"
+1263,user_126,5.0,"Shawshank Redemption, The (1994)"
+1264,user_130,5.0,"Shawshank Redemption, The (1994)"
+1265,user_131,4.0,"Shawshank Redemption, The (1994)"
+1266,user_132,4.5,"Shawshank Redemption, The (1994)"
+1267,user_133,4.0,"Shawshank Redemption, The (1994)"
+1268,user_135,5.0,"Shawshank Redemption, The (1994)"
+1269,user_137,3.5,"Shawshank Redemption, The (1994)"
+1270,user_140,4.0,"Shawshank Redemption, The (1994)"
+1271,user_141,4.0,"Shawshank Redemption, The (1994)"
+1272,user_145,3.0,"Shawshank Redemption, The (1994)"
+1273,user_152,3.5,"Shawshank Redemption, The (1994)"
+1274,user_156,4.5,"Shawshank Redemption, The (1994)"
+1275,user_159,4.5,"Shawshank Redemption, The (1994)"
+1276,user_161,5.0,"Shawshank Redemption, The (1994)"
+1277,user_162,5.0,"Shawshank Redemption, The (1994)"
+1278,user_166,4.5,"Shawshank Redemption, The (1994)"
+1279,user_167,5.0,"Shawshank Redemption, The (1994)"
+1280,user_169,5.0,"Shawshank Redemption, The (1994)"
+1281,user_170,5.0,"Shawshank Redemption, The (1994)"
+1282,user_171,5.0,"Shawshank Redemption, The (1994)"
+1283,user_176,5.0,"Shawshank Redemption, The (1994)"
+1284,user_177,5.0,"Shawshank Redemption, The (1994)"
+1285,user_178,5.0,"Shawshank Redemption, The (1994)"
+1286,user_179,5.0,"Shawshank Redemption, The (1994)"
+1287,user_182,4.5,"Shawshank Redemption, The (1994)"
+1288,user_187,3.0,"Shawshank Redemption, The (1994)"
+1289,user_189,4.0,"Shawshank Redemption, The (1994)"
+1290,user_190,4.0,"Shawshank Redemption, The (1994)"
+1291,user_191,4.0,"Shawshank Redemption, The (1994)"
+1292,user_193,3.5,"Shawshank Redemption, The (1994)"
+1293,user_195,5.0,"Shawshank Redemption, The (1994)"
+1294,user_197,4.0,"Shawshank Redemption, The (1994)"
+1295,user_198,5.0,"Shawshank Redemption, The (1994)"
+1296,user_199,4.0,"Shawshank Redemption, The (1994)"
+1297,user_200,5.0,"Shawshank Redemption, The (1994)"
+1298,user_202,4.0,"Shawshank Redemption, The (1994)"
+1299,user_203,4.0,"Shawshank Redemption, The (1994)"
+1300,user_209,5.0,"Shawshank Redemption, The (1994)"
+1301,user_211,5.0,"Shawshank Redemption, The (1994)"
+1302,user_212,4.5,"Shawshank Redemption, The (1994)"
+1303,user_215,5.0,"Shawshank Redemption, The (1994)"
+1304,user_219,5.0,"Shawshank Redemption, The (1994)"
+1305,user_220,5.0,"Shawshank Redemption, The (1994)"
+1306,user_221,4.0,"Shawshank Redemption, The (1994)"
+1307,user_223,4.5,"Shawshank Redemption, The (1994)"
+1308,user_227,4.0,"Shawshank Redemption, The (1994)"
+1309,user_228,4.0,"Shawshank Redemption, The (1994)"
+1310,user_229,5.0,"Shawshank Redemption, The (1994)"
+1311,user_230,3.0,"Shawshank Redemption, The (1994)"
+1312,user_232,5.0,"Shawshank Redemption, The (1994)"
+1313,user_233,5.0,"Shawshank Redemption, The (1994)"
+1314,user_235,4.0,"Shawshank Redemption, The (1994)"
+1315,user_237,4.5,"Shawshank Redemption, The (1994)"
+1316,user_239,5.0,"Shawshank Redemption, The (1994)"
+1317,user_240,3.0,"Shawshank Redemption, The (1994)"
+1318,user_241,3.5,"Shawshank Redemption, The (1994)"
+1319,user_242,4.0,"Shawshank Redemption, The (1994)"
+1320,user_247,4.5,"Shawshank Redemption, The (1994)"
+1321,user_249,4.5,"Shawshank Redemption, The (1994)"
+1322,user_250,5.0,"Shawshank Redemption, The (1994)"
+1323,user_251,5.0,"Shawshank Redemption, The (1994)"
+1324,user_254,4.5,"Shawshank Redemption, The (1994)"
+1325,user_256,5.0,"Shawshank Redemption, The (1994)"
+1326,user_258,5.0,"Shawshank Redemption, The (1994)"
+1327,user_261,4.5,"Shawshank Redemption, The (1994)"
+1328,user_262,3.0,"Shawshank Redemption, The (1994)"
+1329,user_263,5.0,"Shawshank Redemption, The (1994)"
+1330,user_265,4.0,"Shawshank Redemption, The (1994)"
+1331,user_272,4.0,"Shawshank Redemption, The (1994)"
+1332,user_274,4.5,"Shawshank Redemption, The (1994)"
+1333,user_275,4.0,"Shawshank Redemption, The (1994)"
+1334,user_278,5.0,"Shawshank Redemption, The (1994)"
+1335,user_279,4.5,"Shawshank Redemption, The (1994)"
+1336,user_282,4.5,"Shawshank Redemption, The (1994)"
+1337,user_283,5.0,"Shawshank Redemption, The (1994)"
+1338,user_284,4.0,"Shawshank Redemption, The (1994)"
+1339,user_288,5.0,"Shawshank Redemption, The (1994)"
+1340,user_290,5.0,"Shawshank Redemption, The (1994)"
+1341,user_292,5.0,"Shawshank Redemption, The (1994)"
+1342,user_295,5.0,"Shawshank Redemption, The (1994)"
+1343,user_296,5.0,"Shawshank Redemption, The (1994)"
+1344,user_298,3.5,"Shawshank Redemption, The (1994)"
+1345,user_300,4.0,"Shawshank Redemption, The (1994)"
+1346,user_304,4.0,"Shawshank Redemption, The (1994)"
+1347,user_305,5.0,"Shawshank Redemption, The (1994)"
+1348,user_307,4.5,"Shawshank Redemption, The (1994)"
+1349,user_308,1.0,"Shawshank Redemption, The (1994)"
+1350,user_309,4.0,"Shawshank Redemption, The (1994)"
+1351,user_313,3.0,"Shawshank Redemption, The (1994)"
+1352,user_314,5.0,"Shawshank Redemption, The (1994)"
+1353,user_317,4.0,"Shawshank Redemption, The (1994)"
+1354,user_318,4.0,"Shawshank Redemption, The (1994)"
+1355,user_319,4.5,"Shawshank Redemption, The (1994)"
+1356,user_322,4.0,"Shawshank Redemption, The (1994)"
+1357,user_323,5.0,"Shawshank Redemption, The (1994)"
+1358,user_325,5.0,"Shawshank Redemption, The (1994)"
+1359,user_326,4.5,"Shawshank Redemption, The (1994)"
+1360,user_327,4.5,"Shawshank Redemption, The (1994)"
+1361,user_328,5.0,"Shawshank Redemption, The (1994)"
+1362,user_329,2.0,"Shawshank Redemption, The (1994)"
+1363,user_330,4.5,"Shawshank Redemption, The (1994)"
+1364,user_331,5.0,"Shawshank Redemption, The (1994)"
+1365,user_332,4.5,"Shawshank Redemption, The (1994)"
+1366,user_334,3.5,"Shawshank Redemption, The (1994)"
+1367,user_335,5.0,"Shawshank Redemption, The (1994)"
+1368,user_336,5.0,"Shawshank Redemption, The (1994)"
+1369,user_337,5.0,"Shawshank Redemption, The (1994)"
+1370,user_338,5.0,"Shawshank Redemption, The (1994)"
+1371,user_339,4.0,"Shawshank Redemption, The (1994)"
+1372,user_340,5.0,"Shawshank Redemption, The (1994)"
+1373,user_343,4.5,"Shawshank Redemption, The (1994)"
+1374,user_344,5.0,"Shawshank Redemption, The (1994)"
+1375,user_348,5.0,"Shawshank Redemption, The (1994)"
+1376,user_352,5.0,"Shawshank Redemption, The (1994)"
+1377,user_353,5.0,"Shawshank Redemption, The (1994)"
+1378,user_354,4.5,"Shawshank Redemption, The (1994)"
+1379,user_356,4.5,"Shawshank Redemption, The (1994)"
+1380,user_357,4.0,"Shawshank Redemption, The (1994)"
+1381,user_361,3.0,"Shawshank Redemption, The (1994)"
+1382,user_362,4.5,"Shawshank Redemption, The (1994)"
+1383,user_363,4.0,"Shawshank Redemption, The (1994)"
+1384,user_365,4.5,"Shawshank Redemption, The (1994)"
+1385,user_367,5.0,"Shawshank Redemption, The (1994)"
+1386,user_370,3.5,"Shawshank Redemption, The (1994)"
+1387,user_372,5.0,"Shawshank Redemption, The (1994)"
+1388,user_373,5.0,"Shawshank Redemption, The (1994)"
+1389,user_374,4.0,"Shawshank Redemption, The (1994)"
+1390,user_375,5.0,"Shawshank Redemption, The (1994)"
+1391,user_378,4.5,"Shawshank Redemption, The (1994)"
+1392,user_379,3.0,"Shawshank Redemption, The (1994)"
+1393,user_380,3.0,"Shawshank Redemption, The (1994)"
+1394,user_381,3.5,"Shawshank Redemption, The (1994)"
+1395,user_382,5.0,"Shawshank Redemption, The (1994)"
+1396,user_385,5.0,"Shawshank Redemption, The (1994)"
+1397,user_386,3.0,"Shawshank Redemption, The (1994)"
+1398,user_387,3.5,"Shawshank Redemption, The (1994)"
+1399,user_391,5.0,"Shawshank Redemption, The (1994)"
+1400,user_396,4.5,"Shawshank Redemption, The (1994)"
+1401,user_400,5.0,"Shawshank Redemption, The (1994)"
+1402,user_404,4.0,"Shawshank Redemption, The (1994)"
+1403,user_408,4.5,"Shawshank Redemption, The (1994)"
+1404,user_409,4.0,"Shawshank Redemption, The (1994)"
+1405,user_410,5.0,"Shawshank Redemption, The (1994)"
+1406,user_411,4.0,"Shawshank Redemption, The (1994)"
+1407,user_413,5.0,"Shawshank Redemption, The (1994)"
+1408,user_414,5.0,"Shawshank Redemption, The (1994)"
+1409,user_415,5.0,"Shawshank Redemption, The (1994)"
+1410,user_416,3.0,"Shawshank Redemption, The (1994)"
+1411,user_417,5.0,"Shawshank Redemption, The (1994)"
+1412,user_418,5.0,"Shawshank Redemption, The (1994)"
+1413,user_419,5.0,"Shawshank Redemption, The (1994)"
+1414,user_420,4.5,"Shawshank Redemption, The (1994)"
+1415,user_421,5.0,"Shawshank Redemption, The (1994)"
+1416,user_422,5.0,"Shawshank Redemption, The (1994)"
+1417,user_423,5.0,"Shawshank Redemption, The (1994)"
+1418,user_424,3.5,"Shawshank Redemption, The (1994)"
+1419,user_425,5.0,"Shawshank Redemption, The (1994)"
+1420,user_426,3.5,"Shawshank Redemption, The (1994)"
+1421,user_430,5.0,"Shawshank Redemption, The (1994)"
+1422,user_432,3.0,"Shawshank Redemption, The (1994)"
+1423,user_433,4.5,"Shawshank Redemption, The (1994)"
+1424,user_434,4.0,"Shawshank Redemption, The (1994)"
+1425,user_435,5.0,"Shawshank Redemption, The (1994)"
+1426,user_436,4.0,"Shawshank Redemption, The (1994)"
+1427,user_437,5.0,"Shawshank Redemption, The (1994)"
+1428,user_438,5.0,"Shawshank Redemption, The (1994)"
+1429,user_439,5.0,"Shawshank Redemption, The (1994)"
+1430,user_443,5.0,"Shawshank Redemption, The (1994)"
+1431,user_444,4.0,"Shawshank Redemption, The (1994)"
+1432,user_447,5.0,"Shawshank Redemption, The (1994)"
+1433,user_449,5.0,"Shawshank Redemption, The (1994)"
+1434,user_453,5.0,"Shawshank Redemption, The (1994)"
+1435,user_455,5.0,"Shawshank Redemption, The (1994)"
+1436,user_460,5.0,"Shawshank Redemption, The (1994)"
+1437,user_461,4.5,"Shawshank Redemption, The (1994)"
+1438,user_462,4.0,"Shawshank Redemption, The (1994)"
+1439,user_464,5.0,"Shawshank Redemption, The (1994)"
+1440,user_466,3.0,"Shawshank Redemption, The (1994)"
+1441,user_468,3.0,"Shawshank Redemption, The (1994)"
+1442,user_469,5.0,"Shawshank Redemption, The (1994)"
+1443,user_470,4.0,"Shawshank Redemption, The (1994)"
+1444,user_472,5.0,"Shawshank Redemption, The (1994)"
+1445,user_473,5.0,"Shawshank Redemption, The (1994)"
+1446,user_474,5.0,"Shawshank Redemption, The (1994)"
+1447,user_476,5.0,"Shawshank Redemption, The (1994)"
+1448,user_477,5.0,"Shawshank Redemption, The (1994)"
+1449,user_480,5.0,"Shawshank Redemption, The (1994)"
+1450,user_483,5.0,"Shawshank Redemption, The (1994)"
+1451,user_484,5.0,"Shawshank Redemption, The (1994)"
+1452,user_486,5.0,"Shawshank Redemption, The (1994)"
+1453,user_487,3.0,"Shawshank Redemption, The (1994)"
+1454,user_488,5.0,"Shawshank Redemption, The (1994)"
+1455,user_495,5.0,"Shawshank Redemption, The (1994)"
+1456,user_497,3.0,"Shawshank Redemption, The (1994)"
+1457,user_498,5.0,"Shawshank Redemption, The (1994)"
+1458,user_502,5.0,"Shawshank Redemption, The (1994)"
+1459,user_503,4.0,"Shawshank Redemption, The (1994)"
+1460,user_511,5.0,"Shawshank Redemption, The (1994)"
+1461,user_512,5.0,"Shawshank Redemption, The (1994)"
+1462,user_513,5.0,"Shawshank Redemption, The (1994)"
+1463,user_515,5.0,"Shawshank Redemption, The (1994)"
+1464,user_517,4.0,"Shawshank Redemption, The (1994)"
+1465,user_519,5.0,"Shawshank Redemption, The (1994)"
+1466,user_520,5.0,"Shawshank Redemption, The (1994)"
+1467,user_522,5.0,"Shawshank Redemption, The (1994)"
+1468,user_523,5.0,"Shawshank Redemption, The (1994)"
+1469,user_524,1.0,"Shawshank Redemption, The (1994)"
+1470,user_525,4.5,"Shawshank Redemption, The (1994)"
+1471,user_526,4.0,"Shawshank Redemption, The (1994)"
+1472,user_532,4.0,"Shawshank Redemption, The (1994)"
+1473,user_537,4.0,"Shawshank Redemption, The (1994)"
+1474,user_539,4.0,"Shawshank Redemption, The (1994)"
+1475,user_541,4.0,"Shawshank Redemption, The (1994)"
+1476,user_542,5.0,"Shawshank Redemption, The (1994)"
+1477,user_549,4.0,"Shawshank Redemption, The (1994)"
+1478,user_550,4.5,"Shawshank Redemption, The (1994)"
+1479,user_551,4.0,"Shawshank Redemption, The (1994)"
+1480,user_555,5.0,"Shawshank Redemption, The (1994)"
+1481,user_557,4.5,"Shawshank Redemption, The (1994)"
+1482,user_559,5.0,"Shawshank Redemption, The (1994)"
+1483,user_561,5.0,"Shawshank Redemption, The (1994)"
+1484,user_562,5.0,"Shawshank Redemption, The (1994)"
+1485,user_564,3.0,"Shawshank Redemption, The (1994)"
+1486,user_565,4.0,"Shawshank Redemption, The (1994)"
+1487,user_566,5.0,"Shawshank Redemption, The (1994)"
+1488,user_570,4.0,"Shawshank Redemption, The (1994)"
+1489,user_572,5.0,"Shawshank Redemption, The (1994)"
+1490,user_573,4.5,"Shawshank Redemption, The (1994)"
+1491,user_574,5.0,"Shawshank Redemption, The (1994)"
+1492,user_577,5.0,"Shawshank Redemption, The (1994)"
+1493,user_580,5.0,"Shawshank Redemption, The (1994)"
+1494,user_581,5.0,"Shawshank Redemption, The (1994)"
+1495,user_586,5.0,"Shawshank Redemption, The (1994)"
+1496,user_588,5.0,"Shawshank Redemption, The (1994)"
+1497,user_589,5.0,"Shawshank Redemption, The (1994)"
+1498,user_590,4.5,"Shawshank Redemption, The (1994)"
+1499,user_592,4.0,"Shawshank Redemption, The (1994)"
+1500,user_593,4.5,"Shawshank Redemption, The (1994)"
+1501,user_599,4.0,"Shawshank Redemption, The (1994)"
+1502,user_600,3.5,"Shawshank Redemption, The (1994)"
+1503,user_601,5.0,"Shawshank Redemption, The (1994)"
+1504,user_602,5.0,"Shawshank Redemption, The (1994)"
+1505,user_606,3.5,"Shawshank Redemption, The (1994)"
+1506,user_607,5.0,"Shawshank Redemption, The (1994)"
+1507,user_608,4.5,"Shawshank Redemption, The (1994)"
+1508,user_609,4.0,"Shawshank Redemption, The (1994)"
+1509,user_610,3.0,"Shawshank Redemption, The (1994)"
