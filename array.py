@@ -5,7 +5,8 @@ import pandas as pd
 import numpy as np
 
 def twi():
-       twilight = pd.Series(np.array([False,  True, False, False, False, False, False,  True, False,
+      
+       twilight = [False,  True, False, False, False, False, False,  True, False,
               False, False, False, False,  True, False, False, False, False,
               False, False, False, False, False, False, False, False, False,
               False, False, False, False, False, False, False,  True, False,
@@ -899,13 +900,13 @@ def twi():
               False, False, False, False, False, False, False, False, False,
                True, False, False, False, False, False, False, False, False,
               False, False, False,  True, False, False, False,  True, False,
-              False,  True,  True, False]))
+              False,  True,  True, False]
        return twilight
 
 
 
 def pot():
-       potter = pd.Series(np.array([ True,  True, False,  True, False,  True,  True,  True,  True,
+       potter = [ True,  True, False,  True, False,  True,  True,  True,  True,
                True,  True,  True, False, False, False,  True, False, False,
               False, False,  True,  True,  True, False, False,  True,  True,
               False, False, False,  True,  True, False, False,  True,  True,
@@ -1799,13 +1800,13 @@ def pot():
                True, False, False, False,  True,  True,  True, False, False,
                True,  True, False, False,  True,  True, False, False,  True,
               False,  True,  True, False,  True, False, False, False, False,
-              False, False, False, False]))
+              False, False, False, False]
        
        return potter
 
 
 def hun():
-       hunger = pd.Series(np.array([False, False, False, False, False,  True, False, False, False,
+       hunger = [False, False, False, False, False,  True, False, False, False,
               False, False, False, False, False, False, False, False, False,
               False,  True, False, False, False, False, False, False, False,
               False, False, False, False, False, False, False, False, False,
@@ -2699,5 +2700,5 @@ def hun():
               False,  True,  True,  True, False, False, False,  True, False,
                True,  True,  True, False, False,  True, False, False, False,
                True, False, False, False, False,  True,  True, False, False,
-              False, False,  True, False]))
+              False, False,  True, False]
        return hunger
