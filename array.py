@@ -1,6 +1,8 @@
 
 # twi : for twitter, pot : for potter, hun : for hunger
 
+import pandas as pd
+import numpy as np
 
 def twi():
        twilight = pd.Series(np.array([False,  True, False, False, False, False, False,  True, False,
