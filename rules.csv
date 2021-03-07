@@ -1,0 +1,11 @@
+,antecedents,consequents
+0,Potter,Hunger
+1,Twilight,Hunger
+2,Mockingbird,Hunger
+3,Gatsby,Hunger
+4,Potter,Twilight
+5,Potter,Mockingbird
+6,Potter,Gatsby
+7,Mockingbird,Twilight
+8,Gatsby,Twilight
+9,Mockingbird,Gatsby
